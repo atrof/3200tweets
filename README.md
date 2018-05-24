@@ -15,7 +15,6 @@ $pip install tweepy
 ```
 
 2. Create Twitter Application [here](https://apps.twitter.com).
-
 3. Go to the **Keys and Access Tokens** tab.
 
 4. Open `settings.py` and
