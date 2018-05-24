@@ -1,7 +1,5 @@
 # 3200tweets
-This script grabs recent 3240 tweets for a chosen account (-s) using Twitter API and `tweepy` library (Python). 
-
-Why not `3240tweets`? Because I thaught the maximum count is 3200 :)
+This script grabs recent 3200+ tweets for a chosen account (-s) using Twitter API and `tweepy` library (Python). 
 
 ## Files
 * `extractor.py` - main script
