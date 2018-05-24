@@ -70,3 +70,5 @@ def extract(screen_name):
 
 for account in ACCOUNTS:
     extract(account)
+
+print('Finished!)
