@@ -5,4 +5,4 @@ ACCESS_TOKEN = 'access_token_from_twitter_app'
 ACCESS_SECRET = 'access_secret_token_from_twitter_app'
 
 #List of accounts to grab
-ACCOUNTS = ['realDonaldTrump', 'HillaryClinton']
+ACCOUNTS = ['realDonaldTrump']
